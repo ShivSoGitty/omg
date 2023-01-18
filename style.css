@@ -1,0 +1,22 @@
+.heading{
+    font-size: 30px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px #ff0000;
+}
+p{
+    font-size: 15px;
+    color: white;
+}
+.copyright_footer{
+    position: fixed;
+    color: #32cd32;
+    bottom: 0;
+    width: 100%;
+    background-color: gray;
+    line-height: 3;
+    text-align: center;
+}
+body{
+    font-family: 'Fredoka', sans-serif;
+}
